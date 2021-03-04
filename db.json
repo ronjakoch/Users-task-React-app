@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Ronja",
+      "lastname": "Koch",
+      "street": "Friedensweg 8",
+      "plz": 8810,
+      "place": "Horgen"
+    },
+    {
+      "id": 2,
+      "firstname": "Tamara",
+      "lastname": "Koch",
+      "street": "Friedensweg 8",
+      "plz": 8810,
+      "place": "Horgen"
+    }
+  ]
+}
